@@ -1,0 +1,28 @@
+{
+  "name": "genericscrape",
+  "version": "1.0.0",
+  "description": "Generic scraping example",
+  "main": "genericscrape.js",
+  "scripts": {
+    "test": "echo no bugs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lxe/genericscrape.git"
+  },
+  "keywords": [
+    "generic",
+    "scrape"
+  ],
+  "author": "Aleksey Smolenchuk <lxe@lxe.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxe/genericscrape/issues"
+  },
+  "homepage": "https://github.com/lxe/genericscrape#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "lodash": "^3.10.1",
+    "request": "^2.60.0"
+  }
+}
